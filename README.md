@@ -26,7 +26,7 @@ During transcription, RNA polymerase creates a messenger RNA (mRNA) strand from 
 > Input DNA: `AGCTAGC`  
 > RNA Transcript: `UCGAUCG`
 
----
+-----
 
 ## 📂 Senior Developer Folder Structure
 
